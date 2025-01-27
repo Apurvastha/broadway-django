@@ -1,0 +1,175 @@
+Ticker: SINDU
+Ticker Name: Sindhu Bikash Bank
+Latest Price: 1138.9
+Points Change: -20.1
+Percentage Change: -1.73
+Traded of Market Cap: 0.047
+--------------------------------------------
+Ticker: BARUN
+Ticker Name: Barun Hydropower
+Latest Price: 457
+Points Change: -8
+Percentage Change: -1.72
+Traded of Market Cap: 0.046
+--------------------------------------------
+Ticker: UNHPL
+Ticker Name: Union Hydropower Limited
+Latest Price: 340
+Points Change: 13.2
+Percentage Change: 4.04
+Traded of Market Cap: 0.044
+--------------------------------------------
+Ticker: SPC
+Ticker Name: Samling Power Company Limited
+Latest Price: 598
+Points Change: 21
+Percentage Change: 3.64
+Traded of Market Cap: 0.0426
+--------------------------------------------
+Ticker: UMRH
+Ticker Name: United IDI Mardi RB Hydropower Limited
+Latest Price: 712
+Points Change: -10
+Percentage Change: -1.39
+Traded of Market Cap: 0.0373
+--------------------------------------------
+Ticker: HPPL
+Ticker Name: Himalayan Power Partner Ltd.
+Latest Price: 555.5
+Points Change: 11.5
+Percentage Change: 2.11
+Traded of Market Cap: 0.0366
+--------------------------------------------
+Ticker: DOLTI
+Ticker Name: Dolti Power Company Limited
+Latest Price: 913
+Points Change: 17.5
+Percentage Change: 1.95
+Traded of Market Cap: 0.035
+--------------------------------------------
+Ticker: MKJC
+Ticker Name: Mailung Khola Jal Vidhyut Company Limited
+Latest Price: 593.9
+Points Change: -9.1
+Percentage Change: -1.51
+Traded of Market Cap: 0.0272
+--------------------------------------------
+Ticker: JFL
+Ticker Name: Janaki Finance
+Latest Price: 466.2
+Points Change: 42.3
+Percentage Change: 9.98
+Traded of Market Cap: 0.0261
+--------------------------------------------
+Ticker: SAPDBL
+Ticker Name: Saptakoshi Development Bank Ltd
+Latest Price: 1460
+Points Change: -135
+Percentage Change: -8.46
+Traded of Market Cap: 0.0233
+--------------------------------------------
+Ticker: NABBC
+Ticker Name: Narayani Development Bank
+Latest Price: 1218
+Points Change: 35
+Percentage Change: 2.96
+Traded of Market Cap: 0.0222
+--------------------------------------------
+Ticker: CHL
+Ticker Name: Chhyangdi Hydropower Ltd.
+Latest Price: 457
+Points Change: -7
+Percentage Change: -1.51
+Traded of Market Cap: 0.0221
+--------------------------------------------
+Ticker: BEDC
+Ticker Name: Bhugol Energy Development Company Limited
+Latest Price: 836
+Points Change: 49
+Percentage Change: 6.23
+Traded of Market Cap: 0.0207
+--------------------------------------------
+Ticker: SLBSL
+Ticker Name: Samudayik Laghubitta Bittiya Sanstha Limited
+Latest Price: 2595
+Points Change: 235
+Percentage Change: 9.96
+Traded of Market Cap: 0.0206
+--------------------------------------------
+Ticker: SPDL
+Ticker Name: Synergy Power Development Ltd.
+Latest Price: 340
+Points Change: 2
+Percentage Change: 0.59
+Traded of Market Cap: 0.0192
+--------------------------------------------
+Ticker: NYADI
+Ticker Name: Nyadi Hydropower Limited
+Latest Price: 643.5
+Points Change: 58.5
+Percentage Change: 10
+Traded of Market Cap: 0.0186
+--------------------------------------------
+Ticker: RFPL
+Ticker Name: River Falls Power Limited
+Latest Price: 1030
+Points Change: -47
+Percentage Change: -4.36
+Traded of Market Cap: 0.0173
+--------------------------------------------
+Ticker: MMKJL
+Ticker Name: Mathillo Mailun Khola Jalvidhyut Limited
+Latest Price: 856
+Points Change: 16.7
+Percentage Change: 1.99
+Traded of Market Cap: 0.0165
+--------------------------------------------
+Ticker: NRN
+Ticker Name: NRN Infrastructure and Development Limited
+Latest Price: 1277.9
+Points Change: 13.9
+Percentage Change: 1.1
+Traded of Market Cap: 0.0164
+--------------------------------------------
+Ticker: MEN
+Ticker Name: Mountain Energy Nepal Limited
+Latest Price: 629.9
+Points Change: 34.9
+Percentage Change: 5.87
+Traded of Market Cap: 0.0161
+--------------------------------------------
+Ticker: NFS
+Ticker Name: Nepal Finance
+Latest Price: 729
+Points Change: 47
+Percentage Change: 6.89
+Traded of Market Cap: 0.0159
+--------------------------------------------
+Ticker: NHDL
+Ticker Name: Nepal Hydro Developers Ltd.
+Latest Price: 804.1
+Points Change: -45.9
+Percentage Change: -5.4
+Traded of Market Cap: 0.0159
+--------------------------------------------
+Ticker: MKHL
+Ticker Name: Mai Khola Hydropower Limited
+Latest Price: 681
+Points Change: 11
+Percentage Change: 1.64
+Traded of Market Cap: 0.0148
+--------------------------------------------
+Ticker: ULHC
+Ticker Name: Upper Lohore Khola Hydropower Company Limited
+Latest Price: 570
+Points Change: 9
+Percentage Change: 1.6
+Traded of Market Cap: 0.0144
+--------------------------------------------
+Ticker: NRM
+Ticker Name: Nepal Republic Media Limited
+Latest Price: 512
+Points Change: -15
+Percentage Change: -2.85
+Traded of Market Cap: 0.0141
+--------------------------------------------
